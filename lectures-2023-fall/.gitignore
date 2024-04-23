@@ -1,5 +1,0 @@
-.*
-!.gitignore
-*.pyc
-__pycache__/
-flask_session/
