@@ -1,0 +1,72 @@
+Hello world. It's a pleasure being part of this workshop.
+@David J. Malan 
+Is it a great idea to learn C and C++ simultaneously?
+I'm a freshman at the CopperBelt University in Zambia and we are using C++ for learning. I'm also taking cs50x on edx and I wanted to know the right way to learn.
+Looking forward to your reply 
+
+
+I’d pick one or the other. I’d recommend learning C, then C++, as the latter solves problems that you’ll eventually run into with the former. (I.e., C++ introduces OOP, which allows for, arguably, cleaner implementations of some solutions.)
+
+David J. Malan 2:53 PM
+Ideally, leveraging a bit of AI would open up even more time for those kinds of connections, to ask professors/TAs for advice more generally rather than asking “FAQs” about material alone. In CS50’s case on campus, we still try to invite 50+ students to lunch each Friday to get to know them. We have our CS50 Puzzle Day, CS50 Hackathon, and CS50 Fair. And I’d argue those are time better spent than, often, sitting in large classes or office hours.
+
+
+
+
+
+@David J. Malan I am going to be a freshman (CS) in college in fall, what would your suggestions be to get better at coding. ive done CS50x and hope to get an internship at a big cs company. what would be your suggestions for achieving this
+
+David J. Malan 2:54 PM
+You might find that CS50P or CS50W or CS50 AI are a good opportunity to get more comfortable with programming specifically. You could also take https://www.coursera.org/learn/algorithms-part1, which might give you a leg up on more theoretical coursework.
+
+
+
+
+Mohammad shahnawaz 2:54 PM
+Sir, I have completed CS50x and CS50w and currently doing CS50ai , but it feels that I am not doing much and progress. As there is no interaction with industries. So my question is how can I connect to industries people and check if I am good enough.
+
+David J. Malan 3:00 PM
+You might enjoy finding the GitHub repository of some library or software that you yourself use, read through the open Issues, and see if you can open a “pull request” to solve some of the issues!
+
+
+
+
+
+Riddhiraj Sehgal 3:28 PM
+Hi @David J. Malan . I have completed CS50x and wanted to understand Python more deeply. However, since CS50P  is also meant to be a foundational course on CS, is it advisable to do the entire course from scratch or would you advise speedrolling through certain stuff? Thanks!
+
+Sebastian Gil 3:29 PM
+If you allow me to give you a little advice, I would tell you to do it from the beginning. Maybe many parts will be easy for you, but the fact that it is more focused on Python will make you learn some new little details that CS50x doesn't have. Plus, practice always helps.
+
+David J. Malan 3:30 PM
+entire course!
+
+
+
+
+
+
+
+
+Riddhiraj Sehgal 3:28 PM
+Hi @David J. Malan . I have completed CS50x and wanted to understand Python more deeply. However, since CS50P  is also meant to be a foundational course on CS, is it advisable to do the entire course from scratch or would you advise speedrolling through certain stuff? Thanks!
+
+Patrick Watts 3:31 PM
+Yep I did CS50 first and went back for CS50P and it was well worth it and you will learn new techniques
+
+Sebastian Gil 3:31 PM
+To learn OOP, in my opinion, the best language is JAVA... 
+I mean, when it comes to learn the basics of OOP, not saying that java is better or worse than any other language, just that in my opinion it's easier to see the OOP concepts on it
+
+
+
+
+
+
+
+
+
+
+
+
+

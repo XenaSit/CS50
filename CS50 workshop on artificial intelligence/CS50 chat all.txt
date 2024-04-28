@@ -1,0 +1,866 @@
+Raza Mohammad Shees Alaqaband  to  Everyone 2:46 PM
+@David J. Malan I am going to be a freshman (CS) in college in fall, what would your suggestions be to get better at coding. ive done CS50x and hope to get an internship at a big cs company. what would be your suggestions for achieving this
+
+Christian Moraleda  to  Everyone 2:46 PM
+@David J. Malan Is the CS50.ai updates and upgrades as based on the questions and conversational design input by the users, and up to what extent these updates and upgrades will happen. And also, I see that this is being used more on VS Code. Will you also delve/include this on other IDEs that is not present in a codespace?
+
+Patrick Watts  to  Everyone 2:47 PM
+https://github.com/cs50/ai-workshop
+
+David J. Malan  to  Everyone 2:48 PM
+Hello, all! I’m on chat now if you have other questions about the first part of the workshop. (I’ll do my best to keep up but also need to listen to Rongxin!)
+
+Stanislav Artemyev  to  Everyone 2:47 PM
+I’m in my final weeks of CS50X, and I appreciate the hard work behind the course. Thank you, Dr. David Malan and the CS50 team. Sections, Shorts, and Duck are super helpful to learn on your own!
+
+David J. Malan 2:48 PM
+So glad to hear!
+
+Ebenezer Amoaful  to  Everyone 2:49 PM
+Hello world 
+This is Ebenezer Amoaful from Ghana 
+
+Benjamin Chaambwa  to  Everyone 2:47 PM
+Hello world. It's a pleasure being part of this workshop.
+@David J. Malan 
+Is it a great idea to learn C and C++ simultaneously?
+I'm a freshman at the CopperBelt University in Zambia and we are using C++ for learning. I'm also taking cs50x on edx and I wanted to know the right way to learn.
+Looking forward to your reply 
+
+David J. Malan 2:49 PM
+I’d pick one or the other. I’d recommend learning C, then C++, as the latter solves problems that you’ll eventually run into with the former. (I.e., C++ introduces OOP, which allows for, arguably, cleaner implementations of some solutions.)
+
+Ebenezer Amoaful  to  Everyone 2:50 PM
+Thank you very much David J. Malan
+
+Jerome Ancheta  to  Everyone 2:50 PM
+is there freshman or sophomore here using java? 
+
+Ethan Caudy  to  Everyone 2:48 PM
+@David J. Malan A lot of "real" on campus education involves making lasting connections with professors and peers. How can we avoid losing those connections when the DDB idea goes to scale, both on campus and for online students? Clearly Dr. Malan et all can't answer 5.7 million emails for EdX.
+
+David J. Malan 2:53 PM
+Ideally, leveraging a bit of AI would open up even more time for those kinds of connections, to ask professors/TAs for advice more generally rather than asking “FAQs” about material alone. In CS50’s case on campus, we still try to invite 50+ students to lunch each Friday to get to know them. We have our CS50 Puzzle Day, CS50 Hackathon, and CS50 Fair. And I’d argue those are time better spent than, often, sitting in large classes or office hours.
+
+Vishwas Singh  to  Everyone 2:48 PM
+@David J. Malan At the end when you were talking about the one on one oral exams with AI did you mean like have AI grade students? (After a few revision in the AI of course)
+
+David J. Malan 2:53 PM
+Correct!
+
+Shu Yang  to  Everyone 2:50 PM
+What’s vector representation?
+
+Fahad Aslam 2:53 PM
+Computers don't understand words, therefore it needs to be converted into numbers. Vector represntation is a numerical represnetation of words in a high dimensional vector space. 
+
+preetam rathod  to  Everyone 2:50 PM
+discard @preetamrtd
+
+Akshat Jain 2:51 PM
+@akshat_senpai
+
+saahndong ransom 2:52 PM
+please help me with the presentation  slide
+
+Akshat Jain 2:54 PM
+How 
+
+Raza Mohammad Shees Alaqaband  to  Everyone 2:48 PM
+@David J. Malan I am going to be a freshman (CS) in college in fall, what would your suggestions be to get better at coding. ive done CS50x and hope to get an internship at a big cs company. what would be your suggestions for achieving this
+
+David J. Malan 2:54 PM
+You might find that CS50P or CS50W or CS50 AI are a good opportunity to get more comfortable with programming specifically. You could also take https://www.coursera.org/learn/algorithms-part1, which might give you a leg up on more theoretical coursework.
+
+Mohammad shahnawaz  to  Everyone 2:55 PM
+@David J. Malan Sir, I have completed CS50x and CS50w and currently doing CS50ai , but it feels that I am not doing much and progress. As there is no interaction with industries. So my question is how can I connect to industries people and check if I am good enough.
+
+Vladislav Baidin  to  Everyone 2:49 PM
+@David J. Malan Considering the ease of obtaining solutions to coding tasks from AI chatbots, do you think relying on such tools can diminish our creativity and problem-solving skills? How should we balance the use of AI assistance with the development of independent coding competencies?
+
+David J. Malan 2:56 PM
+Yup, but I’d like to think that people who enjoy the process will generally reach for those tools only to automate/expedite the uninteresting/tedious stuff. Not unlike using Google to look something up rather than leafing through a book. I tend to view ChatGPT, at the moment, as a Google 2.0.
+
+Omama Khan  to  Everyone 2:50 PM
+I have recently completed CS50p, and though i took quite long time to complete the course, i am in doubt whether i should go for cs50ai (which is my goal) or go to cs50x and complete that? I am not too good but sometimes i get solutions without seeking help. 
+@David J. Malan
+
+David J. Malan 2:56 PM
+CS50x first will help with CS50 AI!
+
+Akshat Jain  to  Everyone 2:50 PM
+CS50 new course when 🤔
+
+David J. Malan 2:56 PM
+https://cs50.edx.org/r July 1!
+
+Alex Boneham  to  Everyone 2:58 PM
+Thank you CS50 team for all your hard work! Always informative and inspiring.
+
+Guido Bartels  to  Everyone 2:53 PM
+@David J. Malan, can I find the code from the ddb and the guidelines somewhere or are they clossed source? I would love to develop a coaching assistent for a different subject.
+
+David J. Malan 2:58 PM
+CS50.ai itself is currently closed-source!
+
+Frantz Perea Cobos  to  Everyone 2:53 PM
+Hello, all! I’m on chat now if you have other questions about the first part of the workshop. (I’ll do my best to keep up but also need to listen to Rongxin!)
+Hello, I just want to share that I started CS50 in 2022, finished all but the final project in 2023. In my case I didn't used the duck, but later on I've been using ChatGPT for improvement of code I have written for personal projects. And I have found it very useful in terms of debugging. The only challenge is that ChatGPT seems to forget olders part of the discussion, so at some point it feels like you are starting over. I guess it has to do with token size.
+
+David J. Malan 2:59 PM
+Correct, ChatGPT (and CS50’s duck) only remember your past N exchanges. In CS50’s case, N tends to be 20.
+
+Ryan Robinson  to  Everyone 2:52 PM
+@David J. Malan What are the most popular programming languages for AI development?
+
+Roi Castrellon 2:53 PM
+I believe that right now, that would be python
+
+Alex Boneham 2:54 PM
+Check out the Stack Overflow Dev survey https://survey.stackoverflow.co/2023/
+
+David J. Malan 2:59 PM
+Lots, honestly! https://www.google.com/search?q=ai+popular+programming+languages We use Python in CS50’s courses.
+
+Ahmed Ali  to  Everyone 2:59 PM
+Taking CS50P, any suggestion on how to get better at coding using python? Wanna get into backend development.
+
+Graham Blundell 3:00 PM
+Code wars and Leetcode can help Quite a lot. Coupled with the duck it should be great!
+
+Mohammad shahnawaz  to  Everyone 2:54 PM
+Sir, I have completed CS50x and CS50w and currently doing CS50ai , but it feels that I am not doing much and progress. As there is no interaction with industries. So my question is how can I connect to industries people and check if I am good enough.
+
+David J. Malan 3:00 PM
+You might enjoy finding the GitHub repository of some library or software that you yourself use, read through the open Issues, and see if you can open a “pull request” to solve some of the issues!
+
+David J. Malan  to  Everyone 3:01 PM
+Rongxin’s slides are at https://docs.google.com/presentation/d/11k93gz0mYpSwaB9bvbtofa2o11Pg7Z2_hrH3pB4APQ0/edit?usp=sharing .
+
+Valerie Paster  to  Everyone 3:03 PM
+response is spelled wrong!
+
+Graham Blundell  to  Everyone 3:03 PM
+This is the biggest mob programming session I’ve seen haha
+
+Edgar Adel  to  Everyone 3:03 PM
+Spelling error
+
+Gediminas Kolinis 3:04 PM
+Even pros does mistakes
+
+Guido Bartels  to  Everyone 2:55 PM
+@David J. Malan, are there slides for the second part? I only saw the source code, not the slides.
+
+David J. Malan 3:04 PM
+https://docs.google.com/presentation/d/11k93gz0mYpSwaB9bvbtofa2o11Pg7Z2_hrH3pB4APQ0/edit?usp=sharing
+
+Stalin Garcia 3:05 PM
+thanks
+
+Confidence Elikem  to  Everyone 3:05 PM
+I’m Confidence from Ghana let’s connect via WhatsApp +233 592841328
+
+Matthias Naumann  to  Everyone 2:56 PM
+@David J. Malan got a short one: do you plan on making the interaction more human-like? (Like adding a voice, show even more sympathy..?)
+
+David J. Malan 3:05 PM
+Eventually, I’m sure it’ll have a voice, but I’m guessing most folks will prefer text.
+
+Mohamed El Amine Bensadoun  to  Everyone 2:54 PM
+ @David J. Malan In your opinion, what are the most promising areas where AI and machine learning can significantly enhance the teaching and learning experience, and how do you see these technologies evolving in the future?
+
+David J. Malan 3:06 PM
+Q&A initially, then assessement, and generally supporting many more students who might not have had access to high-quality educational support!
+
+Valeria Cerpa  to  Everyone 2:57 PM
+If we don’t understand a coding problem, could it be a good use to  ask another way to explain the problem/task in other words? Or explain the problem in small steps for better understanding with AI tool. Could it be a good idea of learning when you are beginner?
+
+David J. Malan 3:07 PM
+yup!
+
+Shu Yang  to  Everyone 2:55 PM
+When will CS50 JAVA with @David J. Malan come out 😉?
+
+David J. Malan 3:04 PM
+To be determined!
+
+Shu Yang 3:08 PM
+Looking forward to it! It would be nice to continuing seeing your face in our learning journey.
+
+Vishwas Singh  to  Everyone 2:47 PM
+@David J. Malan At the end when you were talking about the one on one oral exams with AI did you mean like have AI grade students? (After a few revision in the AI of course)
+
+Vishwas Singh 2:49 PM
+Nice, Its cool finding solutions to AI with AI lol
+
+Partho Das 2:57 PM
+@David J. Malan
+I am Partho from Bangladesh.
+I am a big fan of yours; you have a very unique teaching technique;
+
+
+My question is, I am a problem solver (competitive programmer).
+I write code keeping time complexity in mind.
+That's why my primary coding language is C++. But now when I code with Python, it's hard for me to calculate time.
+Can you tell me some techniques to analyze time complexity of Python code?
+
+David J. Malan 3:08 PM
+Generally speaking, Python isn’t any different than C++ when it comes to asymptotic analysis. I’d just look at each line of code, top to bottom, and ask yourself whether the line will take 1 step, or N steps, or more, then add/multiply as you would for a C++ program too!
+
+javer flores  to  Everyone 3:08 PM
+native token
+
+Abdul Wahab Khan  to  Everyone 3:08 PM
+Will we covering vector databases as well?
++1
+
+Andrew Charlton  to  Everyone 2:58 PM
+Is there a link to the slides Rongxin is sharing?
+
+David J. Malan 3:09 PM
+https://docs.google.com/presentation/d/11k93gz0mYpSwaB9bvbtofa2o11Pg7Z2_hrH3pB4APQ0/edit?usp=sharing
+
+Romaldo Zarka  to  Everyone 3:09 PM
+True**
+
+Vishwas Singh  to  Everyone 2:58 PM
+@David J. Malan So basically to code AI (LLMs) on how to answer and respond to questions you guys are just adding prompts that the AI take in consideration or like are there some manual filters too?
+
+David J. Malan 3:09 PM
+latter as well!
+
+saahndong ransom  to  Everyone 2:59 PM
+@David J. Malan please how can I get today resource 
+
+David J. Malan 3:10 PM
+https://docs.google.com/presentation/d/11k93gz0mYpSwaB9bvbtofa2o11Pg7Z2_hrH3pB4APQ0/edit?usp=sharing
+
+Karan Raut  to  Everyone 3:10 PM
+What should a student with limited resource and time do to attain industry standards to land a good carrer in programming alongside cs50 course bundle??
+
+Vedant Tiwari  to  Everyone 2:55 PM
+@David J. Malan  What is your take on those web building websites like Wix studio or wordpress instead of coding because these are here and we truely can't ignore them and they are easy to use.
+
+Andrew Charlton 3:08 PM
+We can always tweek the code from here too. I made my first few websi9tes this way so I had something to work with. 
+Modifying the code is a great step to learning how to build a site from scratch.
+
+Sebastian Gil 3:08 PM
+In my humble opinion, while they save a lot of work, especially repetitive tasks, one must have a good understanding of what they do underneath, otherwise, one is exposed to certain security flaws and such.
+
+Andrew Charlton 3:10 PM
+That is a very important point especially if the site handles any cc processing or point of sale environment
+
+Swaraj Endait  to  Everyone 3:10 PM
+not Ture, its should be  True
+
+Frantz Perea Cobos  to  Everyone 3:00 PM
+@Rongxin Liu are you using any kind of framework like LangChain? What's your take on those?
+
+David J. Malan 3:10 PM
+Not currently!
+
+Karan Raut  to  Everyone 3:10 PM
+What should a student with limited resource and time do to attain industry standards to land a good carrer in programming alongside cs50 course bundle??
+
+Andrew Charlton  to  Everyone 3:11 PM
+I wonder if anyone else is having as much fun as I am right now...I'm just taking notes for later use but this is great
+
+Daniel Dekhtyar  to  Everyone 3:11 PM
+@David J. Malan Why do you use prompt engineering instead of just fine tuning GPT 3.5/GPT4?
+
+Zayd Mohammad  to  Everyone 3:08 PM
+@David J. Malan I loved your Cybersecurity course so much, I am now teaching a class about Cybersecurity in my local Mosque!
+
+Confidence Elikem 3:11 PM
+How can I also get access to this course please
+
+Christian Moraleda  to  Everyone 3:01 PM
+@David J. Malan Is the CS50.ai updates and upgrades as based on the questions and conversational design input by the users, and up to what extent these updates and upgrades will happen. And also, I see that this is being used more on VS Code. Will you also delve/include this on other IDEs that is not present in a codespace?
+
+David J. Malan 3:12 PM
+No feedback loop at the moment, since no underlying API support for such, but eventually! No plans for other IDEs.
+
+Omama Khan  to  Everyone 3:01 PM
+While following through this workshop of actually creating a chatbot, can we ask questions related to the demo via email?
+
+David J. Malan 3:12 PM
+via chat, though we’ll do our best to answer some at the end!
+
+Gilmar Garbugio  to  Everyone 3:03 PM
+Will you also delve/include this on other IDEs that is not present in a codespace? Is possible for example in IDE Pycharm David?
+
+David J. Malan 3:13 PM
+No plans for such!
+
+Shu Yang  to  Everyone 3:03 PM
+Why not store response in JSON?
+
+David J. Malan 3:12 PM
+You could.
+
+Shu Yang 3:13 PM
+OK thank you!
+
+Ishtiaque Ahmed Rafin 3:13 PM
+Hello Sir David J Malan
+
+Karan Raut  to  Everyone 3:04 PM
+ @David J. Malan sir What should a student with limited resource and time do to attain industry standards to land a good carrer in programming alongside cs50 course bundle??
+
+David J. Malan 3:13 PM
+I’d try to find an open-source project to contribute to!
+
+Vishwas Singh  to  Everyone 3:06 PM
+@David J. Malan So basically to code AI (LLMs) on how to answer and respond to questions you guys are just adding prompts that the AI take in consideration or like are there some manual filters too?
+
+David J. Malan 3:13 PM
+latter too!
+
+Sunday Afolabi  to  Everyone 3:13 PM
+I can not hear you.
+Oh, cool. I can now hear you.
+
+preetam rathod  to  Everyone 3:04 PM
+how to link api key
+
+Swaraj Endait 3:06 PM
+or ask an expert from cs50
+
+Frantz Perea Cobos 3:07 PM
+You have to set that in the environment of the computer system where you are running. So it is a different answer depending on what you have. Windows: Open a command prompt and run the following command to set the environment variable permanently: setx OPENAI_API_KEY "your-api-key". (response from Perplexity.ai!!!)🙃
+
+David J. Malan 3:14 PM
+https://askubuntu.com/questions/58814/how-do-i-add-environment-variables
+
+Graham Blundell  to  Everyone 2:55 PM
+@David J. Malan This might be a silly question. But to contribute to open source AI to build my experience/portfolio. Is there anything easier recommended to start on
+
+David J. Malan 3:05 PM
+Not sure what you mean!
+
+Graham Blundell 3:07 PM
+See I knew it was silly haha! 
+
+I just mean an easy place to start in AI to contribute to open source code, as a somewhat junior and green to AI. 
+
+I guess I’ll learn this by just doing the course though, whatever I’m more comfortable contributing to projects with.
+
+David J. Malan 3:15 PM
+I’d find an open-source repo whose issues you can help solve. doesn’t really need to be AI-specific!
+
+Nomaan Ahmad  to  Everyone 3:08 PM
+Will we covering vector databases as well?
+
+David J. Malan 3:15 PM
+Slightly, momentarily!
+
+Ishtiaque Ahmed Rafin  to  Everyone 3:15 PM
+Hi
+
+Frantz Perea Cobos  to  Everyone 3:00 PM
+@David J. Malan what do you think of Mojo? Once it's fully released, can we imagine a CSMojo?
+
+David J. Malan 3:11 PM
+Haven’t seen! Not likely!
+
+Frantz Perea Cobos 3:15 PM
+Superset of Python. Developed by company Modular. Founded by Chris Lattner. It will be a compiled superset of Python, able to use in an optimized way all the hardware out there (CPUs, GPUs…). It would eliminate the performance problem of Python and maybe take it to C level.
+
+Stavros Kolovos  to  Everyone 3:14 PM
+@David J. Malan Hello! Where we can find the recorded Zoom meeting from today??
+
+Vishwas Singh 3:15 PM
+https://www.youtube.com/live/d3Hl4Xv6vNE
+
+Stavros Kolovos 3:15 PM
+Thanks!!!!
+
+Stavros Kolovos  to  Everyone 3:08 PM
+@David J. Malan Hello! Where we can find the recorded Zoom meeting from today??
+
+David J. Malan 3:15 PM
+https://cs50.harvard.edu/x/2024/zoom/#cs50x-workshop-on-ai
+
+Stavros Kolovos 3:16 PM
+Thanks a lot!!!
+
+Daniel Frimpong  to  Everyone 2:59 PM
+Hello from Ghana I do K-12 training for highschool students how would I be able to implement CS50 in my training session @David J. Malan 
+
+David J. Malan 3:09 PM
+See https://www.eventbrite.com/e/cs50-educator-workshop-2024-tickets-796063396047 !
+
+Confidence Elikem 3:16 PM
+Daniel let’s connect via WhatsApp I’m Confidence from Ghana … +233 592841328
+
+Gediminas Kolinis  to  Everyone 3:07 PM
+@David J. Malan Is it normal to feel stupid, when working on one pset on CS50ai for week or longer?
+
+David J. Malan 3:14 PM
+🙂 yes, just take a break, ask lots of questions!
+
+Gediminas Kolinis 3:15 PM
+Thank you. @David J. Malan  Sir, your courses has changed my life
+
+Sebastian Gil 3:16 PM
+Agreed with Gediminas 100%
+
+Shu Yang  to  Everyone 3:18 PM
+I would like to understand what the presenter is presenting in a little bit more detail. Maybe a little bit slower. These demos are interesting!
+
+Vítor Oliveira Oliveira  to  Everyone 3:08 PM
+@David J. Malan I'm currently taking CS50x and I'm amazed at the way of teaching, the lessons, sections and problem sets. After finishing this course, can you suggest any other CS50 courses that you think would be more appropriate in terms of progression in your studies?
+
+David J. Malan 3:19 PM
+I’d choose based on your own interests! https://edx.org/cs50
+
+Abdul Wahab Khan  to  Everyone 3:07 PM
+I am still confused a little bit about the difference between system and user prompt. Can we say that system prompt is like a
+"hard-coded" instruction and user prompt is dynamic?
+
+preetam rathod 3:08 PM
+system prompt is like teaching the ai model
+
+David J. Malan 3:19 PM
+Yup, Abdul, that’s right
+
+Partho Das  to  Everyone 3:17 PM
+Is here  any Hashing Needed?
+
+David J. Malan 3:19 PM
+nope
+
+Guido Bartels  to  Everyone 3:18 PM
+ I was able ton get an openAi API key for free and without bank details. Haven'tvtried it jet and not sure which version.
+
+Zayd Mohammad 3:18 PM
+How?
+
+Guido Bartels 3:20 PM
+Just went to platform.openai.com, loged in, on the left you have "API keys" and there you can generate one
+
+Gediminas Kolinis  to  Everyone 3:19 PM
+Is that a list of vectors?
+
+Fahad Aslam 3:20 PM
+it is a single long vector
+
+Shu Yang  to  Everyone 3:07 PM
+In this demo, the presenter is using model=“gtp-4”. Don’t you have to pay for that? Or if you do it this way you don’t need to pay?
+
+David J. Malan 3:15 PM
+Afraid most APIs are indeed paid right now!
+
+Omama Khan 3:20 PM
+@Shu Yang we can use the free gpt version to code  some of this, right?
+
+Shu Yang 3:20 PM
+My intuition is just change it to model=“gpt3.5”. Or try gpt4 to see if doing it this way can circumvent the pay/
+
+Partho Das  to  Everyone 3:21 PM
+Is there any open source LLM model API?
+
+Ishtiaque Ahmed Rafin 3:21 PM
+Hugging face 
+
+Stalin Garcia 3:21 PM
+groq
+
+Rahul  to  Everyone 3:06 PM
+is there any course where I can learn to send requests to  LLM's and get back response from them.So that I can develop some small application
+
+David J. Malan 3:13 PM
+This workshop!
+
+Rahul 3:15 PM
+what if I want to learn more , beyond what the workshop covers?
+
+David J. Malan 3:21 PM
+Not sure offhand, I’m afraid!
+
+Stavros Kolovos  to  Everyone 3:13 PM
+@David J. Malan  Hello! Where we can find the recorded Zoom meeting from today??
+
+David J. Malan 3:22 PM
+https://cs50.harvard.edu/x/2024/zoom/#cs50x-workshop-on-ai
+
+Mamadou Diatta  to  Everyone 3:12 PM
+Is there any limitation on that  size of the message? . . .
+
+David J. Malan 3:22 PM
+I think so but don’t recall max!
+
+Seifeldin Elshabshiri  to  Everyone 3:11 PM
+Would we able to access the recording of the meeting? I joined late
+
+Swaraj Endait 3:11 PM
+It will be on YouTube
+
+Seifeldin Elshabshiri 3:11 PM
+Thanks!
+
+David J. Malan 3:22 PM
+https://cs50.harvard.edu/x/2024/zoom/#cs50x-workshop-on-ai
+
+Daniel Dekhtyar  to  Everyone 3:15 PM
+@David J. Malan Why do you use prompt engineering instead of just fine tuning GPT 3.5/GPT4?
+
+David J. Malan 3:21 PM
+Fine-tuning doesn’t tend to be very effective when your/our volume of training data is just a drop in the bucket vis-a-vis the model’s own training data. So “grounding” and prompt engineering tend to be more effective.
+
+Ishtiaque Ahmed Rafin 3:22 PM
+Fine tuning every model is too much for a model 
+Google also uses prompt engineering before fine tuning any models 
+
+Maguette DANDIO  to  Everyone 3:12 PM
+Can we achieve the same process using javascript instead of python ?
+
+David J. Malan 3:22 PM
+yup
+
+Maguette DANDIO 3:24 PM
+@David J. Malan, thanks you !
+
+Ayaz Ali  to  Everyone 3:25 PM
+@all someone ask him to drink water.
+
+Aryan Suktekar  to  Everyone 3:16 PM
+@David J. Malan Is there a way to create a chatbot similar to this one without using an API key? Not talking about LLaMA models or other alternatives
+
+David J. Malan 3:20 PM
+not using industry APIs, I’m afraid.
+
+Ishtiaque Ahmed Rafin 3:20 PM
+Cloudflare workers api it's for production purposes same as open ai ones
+
+Aryan Suktekar 3:27 PM
+@David J. Malan @Ishtiaque Ahmed Rafin okay thanks!!
+
+Sebastian Gil  to  Everyone 3:24 PM
+I would like to buy a jacket like the one from Rongxin, are they available for sale anywhere?
+
+Andrew Charlton 3:24 PM
+https://cs50.harvardshop.com/products/cs50-bomber-jacket
+
+Andrew Charlton 3:25 PM
+I was literally searching for that when you asked
+
+Sebastian Gil 3:26 PM
+Thanks Andrew!
+
+Andrew Charlton 3:26 PM
+no problem Sebastian
+
+Confidence Elikem 3:28 PM
+I’m confidence from Ghana let’s connect via WhatsApp on +233 592841328
+
+Joana Pardal  to  Everyone 3:30 PM
+@David J. Malan What are the next steps in research in this area?
+@David J. Malan Can it be adapted to different ages? Something like "explain me like I was 5 years" (like the WIRED show where in explaining what's an Algorithm at several difficulties levels)?
+
+Romaldo Zarka  to  Everyone 3:31 PM
+The only prooblem that I see is that we make openai (thaat is not open) stronger ...
+
+Carlos Lincango  to  Everyone 3:25 PM
+Im from Ecuador, did somebody know how can i get or where can I buy the CS50's stickers with the shipping included to my country?
+
+David J. Malan 3:31 PM
+See https://cs50.harvardshop.com/ !
+
+Mary Velez  to  Everyone 3:24 PM
+is this done during each search from the user? or before the search is done just premade
+
+David J. Malan 3:32 PM
+Instructions are sent each time!
+
+Partho Das  to  Everyone 3:24 PM
+@David J. Malan Do you think every Website should have a personal AI assistant for navigating the website?
+
+David J. Malan 3:32 PM
+Definitely not 🙂
+
+Lucas  to  Everyone 3:32 PM
+@David J. Malan Are there plans to do a CS50 Java?
+
+Michael Sutjiadi  to  Everyone 3:23 PM
+@david.j.malan does a vector holds one word? or one syllable?
+
+David J. Malan 3:32 PM
+depends, often a word or more!
+
+Riddhiraj Sehgal  to  Everyone 3:28 PM
+Hi @David J. Malan . I have completed CS50x and wanted to understand Python more deeply. However, since CS50P  is also meant to be a foundational course on CS, is it advisable to do the entire course from scratch or would you advise speedrolling through certain stuff? Thanks!
+
+Patrick Watts 3:31 PM
+Yep I did CS50 first and went back for CS50P and it was well worth it and you will learn new techniques
+
+Sebastian Gil 3:31 PM
+To learn OOP, in my opinion, the best language is JAVA... 
+I mean, when it comes to learn the basics of OOP, not saying that java is better or worse than any other language, just that in my opinion it's easier to see the OOP concepts on it
+
+Mary Velez  to  Everyone 3:31 PM
+Can someone rexplain what a vector store is
+
+Fahad Aslam 3:33 PM
+Its a way to capture words in numerical vectors, keeping their sementic meaning intact
+
+Collin Whalen  to  Everyone 3:22 PM
+@David J. Malan As LLMs improve in capabilities I am wondering, could society get to a point where it is difficult to not be using a chatbot in order to stay competitive in the workforce and job market?
+
+David J. Malan 3:33 PM
+I imagine it would depend on the human’s role and industry!
+
+Vishwas Singh  to  Everyone 3:34 PM
+@David J. Malan Ok, this is a really silly question but have you guys ever like asked ChatGPT (or some other AI) to give some suggestions on what more you should implement in you duck ai and other stuff you are working on using AI?
+
+Riddhiraj Sehgal  to  Everyone 3:34 PM
+Hi @David J. Malan Why were the captions being chunked to 500 characters of data for each vector? Why couldn’t we do it for the entire thing or do it for 50 characters each. How does it matter?
+
+Fahad Aslam 3:35 PM
+to fit within the prompt context window of the GPT model.
+
+David J. Malan 3:36 PM
+If you get a chance to ask Rongxin, I’d defer to him! I suspect we experimented with different window sizes.
+
+Vishwas Singh  to  Everyone 3:34 PM
+lecture 9
+
+Abdelati Kayati  to  Everyone 3:34 PM
+how to enroll to CS50 for students abroad (Morocco) to study there in the US
+
+Vishwas Singh  to  Everyone 3:34 PM
+yup he did that
+
+Vishwas Singh  to  Everyone 3:22 PM
+@David J. Malan Ok, this is a really silly question but have you guys ever like asked ChatGPT (or some other AI) to give some suggestions on what more you should implement in you duck ai and other stuff you are working non using AI?
+
+David J. Malan 3:35 PM
+The team might have, but these are somewhat uncharted waters! Am sure the duck will have more to say eventually!
+
+Kevin Liu  to  Everyone 3:36 PM
+@David J. Malan Dr. Malan, do you think we will be reaching to a point where we do not need to know about low-level details anymore, and instead being replaced with high level abstractions. For example, I want to implement an adversarial game search algorithm to a system, and then we only need to prompt the LLM with requirements and design patterns, and it will generate us a full implementation? 
+At that point, do you think computer science, software engineering, and related fields will be converged into a smaller set of disciplines, or perhaps being merged into other fields as a tool instead?
+
+Xiu Shi  to  Everyone 3:36 PM
+Thank you CS50 for sharing the source code! Rongxin, your work is inspiring!
+
+Joannellena Middleton  to  Everyone 3:36 PM
+thanks
+
+Jason Powell  to  Everyone 3:36 PM
+Great presentation Rongxin. Thank you!
+
+sara garcia  to  Everyone 3:36 PM
+Thank you!!
+
+javer flores  to  Everyone 3:36 PM
+excellent
+
+Joumana Obeid  to  Everyone 3:36 PM
+Thank you!
+
+Partho Das  to  Everyone 3:01 PM
+@David J. Malan 
+
+I am Partho from Bangladesh.
+I am a big fan of yours; you have a very unique teaching technique.
+My question is, I am a problem solver (competitive programmer).
+I write code keeping time complexity in mind.
+That's why my primary coding language is C++. But now when I code with Python, it's hard for me to calculate time.
+Can you tell me some techniques to analyze time complexity of Python code?
+
+David J. Malan 3:11 PM
+See above!
+
+Tamar Burton 3:36 PM
+Thank you !!! Great demo
+
+Kacper Pyszko  to  Everyone 3:36 PM
+Thank you for the presentation!
+
+javer flores  to  Everyone 3:36 PM
+ty Ron
+
+cillo cotton jr  to  Everyone 3:36 PM
+😎
+
+Geronimo Quiroga  to  Everyone 3:37 PM
+repository?
+
+Andrew Charlton  to  Everyone 3:37 PM
+Thank you Rongxin!
+
+Erika Donastorg  to  Everyone 3:37 PM
+Thank you
+
+Graham Blundell  to  Everyone 3:37 PM
+Poor David, getting hammered by questions everywhere
+
+Shu Yang  to  Everyone 3:37 PM
+This workshop has been a little difficult to follow so far.
+
+Stanislav Artemyev  to  Everyone 3:37 PM
+Thank you for the workshop! So informative!
+
+Gediminas Kolinis  to  Everyone 3:37 PM
+Thank you for answering the question about the hearts.
+
+Laman Isgandarova  to  Everyone 3:37 PM
+Thank you so much!!!
+
+Sylvaine CHRISTOPHE  to  Everyone 3:37 PM
+thank you for this workshop
+
+Anton Heimann  to  Everyone 3:37 PM
+Thank you so much, outstanding workshop as always!
+
+Romaldo Zarka  to  Everyone 3:38 PM
+nice question
+
+Sai A  to  Everyone 3:38 PM
+This has been insightful, thank you so much!
+
+Tamar Burton  to  Everyone 3:38 PM
+@Leonardo Bora your English is just fine perfectly clear requests
+
+Abdelati Kayati  to  Everyone 3:38 PM
+Thanks for the worshop
+
+Sai Geeta Acharya  to  Everyone 3:38 PM
+Thank you, the workshop was very informative
+
+Rashad Mohammed  to  Everyone 3:39 PM
+Will the code be available on some repository?
+
+Joana Pardal 3:39 PM
+https://github.com/cs50/ai-workshop
+
+Ida Bencomo  to  Everyone 3:39 PM
+Thank You
+
+Yudha E. Saputra  to  Everyone 3:39 PM
+any github link for this? thank you
+
+Tuan Anh  to  Everyone 3:39 PM
+Thank you for the workshop
+
+Rahul 3:40 PM
+Thank you for the workshop
+any github link for this? thank you
+https://github.com/cs50/ai-workshop
+
+harold finz  to  Everyone 3:40 PM
+Thank you, much appreciated.
+
+Ishtiaque Ahmed Rafin  to  Everyone 3:41 PM
+Hi
+
+cillo cotton jr  to  Everyone 3:41 PM
+I like to Thank the CS50 for opening a whole new world to me,as yall know I been learning in a nursing home after having a spinal stroke, thanks for the invite DR Malan
+
+Ishtiaque Ahmed Rafin  to  Everyone 3:41 PM
+Thanks for the workshop, David J Malan and Harvard CS50 TEAM
+
+Sirily lasway  to  Everyone 3:41 PM
+@David J. Malan, Thank you for the workshop, and I  hope cs50 plans more workshops
+
+Sunday Afolabi  to  Everyone 3:19 PM
+How does vector generated?
+
+Sunday Afolabi 3:31 PM
+I don't get 
+
+Gediminas Kolinis 3:34 PM
+Right so you have a vector with certain value say it’s value is ‘blue’ and another vector say with value ‘monster’ and when the query solves the vectors you want to know the distance between two vectors(value vector connecting those two), and if query is ‘blue monster’ that vector should be quite short or something like that
+
+Sunday Afolabi 3:42 PM
+So, what now the vector DB, vector representation?
+
+Graham Blundell  to  Everyone 3:42 PM
+Thanks Rongxin and David! You guys are awesome
+
+cillo cotton jr  to  Everyone 3:42 PM
+you did good bro I definitely would have done worse
+
+Leonardo Bora 3:43 PM
+thank you bro.
+Literally forgot how to speak english
+
+Umbreen Rashid  to  Everyone 3:43 PM
+Thank you very much for the informative workshop
+
+Leonardo Bora  to  Everyone 3:43 PM
+Bro is in 4k whattt
+
+Sunday Afolabi  to  Everyone 3:43 PM
+Thank you for the presentation. Where can we get the slide for further study?
+
+Ishtiaque Ahmed Rafin  to  Everyone 3:44 PM
+Caught in 4K
+
+Susan Jonas  to  Everyone 3:44 PM
+Thanks for today! Interesting and actually had fun going through this. 👏
+
+Leonardo Bora  to  Everyone 3:41 PM
+i got nervous while asking lol
+
+Ishtiaque Ahmed Rafin 3:42 PM
+1:1 same lol
+My mic is broken 😂
+
+Ahmed Ali 3:44 PM
+You were great bro🙂 keep going
+
+Ariadne Engelbrecht 3:45 PM
+Have to get to bed,
+have a good one!
+
+Ishtiaque Ahmed Rafin 3:45 PM
+Bye bro
+Good night 
+Where you from 
+
+cillo cotton jr  to  Everyone 3:45 PM
+Hey I would love to just beta test the system if yall need 😆
+
+Gediminas Kolinis  to  Everyone 3:46 PM
+Thank you everyone and CS50 team for all this amazing time.
+
+Yudha E. Saputra  to  Everyone 3:46 PM
+gpt-zero?
+
+Jasper Wu  to  Everyone 3:46 PM
+When chunking the reference data, why is the info embedded as numbers? In other words, why are we converting the data?
+
+Matthias Naumann  to  Everyone 3:46 PM
+BYe @all, was  anice recap and inspiration for AI in Education and my first steps in implementing an API - will go on from that!
+
+Maguette DANDIO  to  Everyone 3:47 PM
+Thank you David and team CS50 for this interesting and informative workshop, you have helped to make AI chatbot more clear for me !
+
+cillo cotton jr  to  Everyone 3:47 PM
+I literally had gemini linked to my docs and had it literaly wrote in my format
+
+Yudha E. Saputra  to  Everyone 3:47 PM
+maybe limited to certain purpose. for examples, cover letter by chatgpt, looks so similar no matter the role. maybe can start from there
+
+cillo cotton jr  to  Everyone 3:47 PM
+write ha ha
+
+harold finz  to  Everyone 3:48 PM
+Like every good presentation, I am left with more questions than answers… and I received several answers. Thanks again.
+
+Shu Yang  to  Everyone 3:49 PM
+So the cs50 chat bot essentially does prompt injection…?
+
+Xiu Shi  to  Everyone 3:49 PM
+Teaching CS50 with AI: Leveraging Generative Artificial Intelligence in Computer Science Education
+https://dl.acm.org/doi/abs/10.1145/3626252.3630938
+
+Duncan B  to  Everyone 3:49 PM
+Thank you so much - really inspiring and very eye opening… great starting point for me!
+
+estanislau Silésio Inácio  to  Everyone 3:49 PM
+I'm very happy to be taking part in this workshop, for me it's another experience to be in a room with people from all over the world.
